@@ -7,7 +7,7 @@ Automate your Cloudflare DNS updates effortlessly with this Python script. Desig
 **Usage:**
 
 1. Clone the repository.
-2. Configure Cloudflare API token and domain details in the script.
+2. Configure o token da API Cloudflare e os detalhes do domínio em `config.json`.
 3. Run on Ubuntu: `nohup python public_dns_manager.py &`
 4. Run on Windows: Double-click or use the command prompt.
 
